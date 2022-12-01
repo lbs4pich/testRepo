@@ -1,0 +1,10 @@
+#Fragen zum thema Versionierung
+
+1.	Erklären Sie die Begriffe: Repository, Tag, merge, update, Branch
+2.	Erläutern Sie den Unterschied zwischen Trunk und Branches.
+3.	Welche gravierenden Unterschiede haben das System Subversion und GIT?
+4.	Zeichen Sie ein Schema eines GIT Systems?
+5.	Welche Bedeutung haben die Begriffe Pull und Push. Wo werden Sie verwendet?
+6.	Wofür werden Tags verwendet?
+7.	Welchen Nachteil/Vorteil haben zentralisierte Versionssysteme?
+8.	Welchen Nachteil/Vorteil haben dezentrale Versionssysteme?
